@@ -206,9 +206,6 @@ d.get(1)         # returns 2
 
 - All operations should support arrays with up to 10^6 elements.
 - All integer values are between -10^9 and 10^9.
-
----
-
 ---
 
 ### 🧠 Solution Explanation (Golang with Visuals)
