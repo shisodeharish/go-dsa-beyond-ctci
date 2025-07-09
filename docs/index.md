@@ -1,6 +1,9 @@
-# Welcome to Go DSA – Beyond Cracking the Coding Interview
+# Go DSA – Beyond Cracking the Coding Interview
 
-Explore clean, production-grade implementations of algorithms in Go.
+Welcome to the documentation of enterprise-grade Go solutions for data structures and algorithms.
 
 ## 📘 Chapters
-- [Chapter 25 – Dynamic Arrays](../chapters/ch25_dynamic_array.md)
+- [Chapter 25 – Dynamic Arrays](./chapters/ch25_dynamic_array.md)
+
+## 📊 Architecture
+- [Design Principles](./architecture.md)
